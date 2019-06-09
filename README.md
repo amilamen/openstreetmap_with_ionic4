@@ -1,1 +1,1 @@
-# openstreetmap_with_ionic4
+# Integration of OpenStreetMap in Ionic 4
